@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="sys_api_stats" version="2" view="RPT4390af79531c921076d13ee0a0490e69">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>method</element>
+            <list_id display_value="sys_api_stats" element="NULL" name="sys_api_stats" parent="NULL" relationship="NULL" sys_domain="global" view="9f9027b9531c921076d13ee0a0490e43">1f9027b9531c921076d13ee0a0490e44</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-29 13:45:15</sys_created_on>
+            <sys_id>179027b9531c921076d13ee0a0490e45</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-29 13:45:15</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>sys_api_stats</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-29 13:45:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1f9027b9531c921076d13ee0a0490e44</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sys_api_stats</sys_name>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_ui_list_sys_api_stats_RPT4390af79531c921076d13ee0a0490e69</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-29 13:45:15</sys_updated_on>
+            <sys_user/>
+            <view display_value="Rpt4390af79531c921076d13ee0a0490e69" name="RPT4390af79531c921076d13ee0a0490e69">9f9027b9531c921076d13ee0a0490e43</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>
